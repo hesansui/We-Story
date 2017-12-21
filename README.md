@@ -1,4 +1,4 @@
 # We-Story
 我们的故事
 
-About Xu Qing
+<img src = " picture/201712.jpg"> 
