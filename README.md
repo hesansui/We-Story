@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html>
 
-You can use the [editor on GitHub](https://github.com/hesansui/We-Story/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head> 
+	<title> Login and Register</title>
+<head>
+	<body>
+		<b><p style = "font-size:30px ; font-family:MicrosoftYaHei">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRegister Account</p><hr  align = "left" style = "width:500px"><b>
+		<form name = "form1" action = "111.html" method = "post" >
+		
+				<table>
+					<tr>
+						<td>
+						<br><br>
+		
+			<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp昵称&nbsp <input name = "t1" pe = "text" style = "font-size:20px"  >
+						</td>
+						<td>
+							<table>
+							<tr>
+								<td><td>  &nbsp <td></td>
+							</tr>
+							<tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+								<td> <a href = "http://www.hao123.com" style = "text-decoration:none " title = "尝试使用手机号作为账号">Try New Function（mobile phone number）</a></td>
+							</tr>
+							<tr>
+								<td> Please input your name</td>
+							</tr>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hesansui/We-Story/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td> <tr>
+								<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp密码&nbsp&nbsp<input name = "pwtextbox" type = "password" style = "font-size:20px"></td>
+							</tr></td>
+					</tr>
+					<tr>
+						<td>&nbsp</td>
+					</tr>
+					<tr>
+						<td> &nbsp&nbsp&nbsp确认密码&nbsp <input name = "agreenbox" type = "password" style = "font-size:20px"> </td>
+					</tr>
+					<tr>
+						<td> &nbsp</td>
+					</tr>
+					<tr>
+						<td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp性别&nbsp&nbsp&nbsp&nbsp<input name  = "malebox" type = "radio" value = Male>Male <input name = "malebox" type = "radio" value = "female" checked = "checked">Female</td>
+					</tr>
+					<tr>
+						<td> &nbsp</td>
+					</tr>
+					<tr>
+						<td>  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp生日 
+							&nbsp&nbsp&nbsp
+							<select name = "old" style = "font-size:18px">
+								<option value = " 1996">1996年</option>
+								<option value = " 1997">1997年</option>
+								<option value = " 1998">1998年</option>
+								<option value = " 1999">1999年</option>
+								<option value = " 2000">2000年</option>
+								<option value = " 2001">2001年</option>
+								<option value = " 2002">2002年</option>
+								<option value = " 2003">2003年</option>
+							</select>
+							<select name = "month" style = "font-size:18px">
+								<option value = " 01">1月</option>
+								<option value = " 02">2月</option>
+								<option value = " 03">3月</option>
+								<option value = " 04">4月</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td> &nbsp</td>
+					</tr>
+					<tr>
+						<td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input name = "bt" type = "submit" value = "Register" style = "font-size:30px"> </td>
+					</tr>
+				</table>
+			</p>
+		</form>	
+	</body>
+</html>
