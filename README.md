@@ -1,4 +1,5 @@
 # We-Story
 我们的故事
 
-<img src = "image/201712.jpg"> 
+
+![Leave me a mark on you](image/201712.jpg)
