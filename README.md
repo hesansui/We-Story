@@ -1,5 +1,5 @@
 # Our Story
-我们的故事
+**我们的故事
 
 
-<img src ="image/201712-1.jpg" align = "center"> 
+<div style = "text-align:center "><img src ="image/201712-1.jpg" >  </div>
