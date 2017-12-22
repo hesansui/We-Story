@@ -2,4 +2,4 @@
 我们的故事
 
 
-<img src ="image/201712-1.jpg"> 
+<img src ="image/201712-1.jpg" align = "center"> 
